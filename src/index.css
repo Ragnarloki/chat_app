@@ -19,9 +19,9 @@ body{
   /* display: flex; */
   width: 90vw;
   height: 90vh;
-  background-color: rgba(31, 12, 50, 0.201);
+  background-color: rgba(24, 7, 74, 0.437);
   backdrop-filter: blur(19px) saturate;
   border-radius: 12px;
-  border: 1px solid  rgba(31, 12, 50, 0.201);
+  background-color: rgba(24, 7, 74, 0.437);
   display: flex;
 }
