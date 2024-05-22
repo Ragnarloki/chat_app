@@ -22,7 +22,16 @@ function Chat() {
       </div>
       <div className="center"></div>
       <div className="bottom">
-
+          <div className="icons">
+          <img src="./img.png" alt="" />
+            <img src="./camera.png" alt="" />
+            <img src="./mic.png" alt="" />
+          </div>
+          <input type="text" placeholder='type a message...'/>
+          <div className="emoji">
+            <img src="./emoji.png" alt="" />
+          </div>
+          <button className='sendButton'>send</button>
       </div>
     </div>
   )
