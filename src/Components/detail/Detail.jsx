@@ -17,6 +17,63 @@ function Detail() {
           </div>
         </div>
       </div>
+
+     <div className="button">
+       <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>   <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+      <button>siva</button>
+     </div>
+
   </div>
   )
 }
